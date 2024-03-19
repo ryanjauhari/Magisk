@@ -2,21 +2,21 @@
 
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
 
-#### This is not an officially supported Google product
+#### Ini adalah repository clone dari versi aslinya. Aplikasi pihak ketiga tidak di dukung oleh Google maupun android. Aplikasi ini open source oleh komunitas pengembang.
 
-## Introduction
+## Mengenal Magisk
 
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
-Some highlight features:
+Magisk adalah aplikasi dengan kode sumber terbuka untuk mengkusotomisasi android, dan memberikan hak akses lebih.  Mendungkung android versi 6.0, hingga atasnya.<br>
+Beberapa fitur Magisk:
 
-- **MagiskSU**: Provide root access for applications
-- **Magisk Modules**: Modify read-only partitions by installing modules
-- **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
-- **Zygisk**: Run code in every Android applications' processes
+- **MagiskSU**: Menyediakan hak izin akses root pada aplikasi lain.
+- **Magisk Modules**: Plugin untuk memodidikasi partisi menjadi Hanya Baca.
+- **MagiskBoot**: Alat untuk melakukan backup ( packing ) dan restore ( unpacking ) file image ( os ) android.
+- **Zygisk**: Plugin untuk menjalankan kode di setiap proses aplikasi.
 
 ## Downloads
 
-[Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
+[Github](https://github.com/topjohnwu/Magisk/) Silakan unduh magisk lewat repositori aslinya, mengunduh dari repositori ini dapat menyebabkan masalah keamanan. Versi ini hanya untuk saya sendiri, tidak untuk publik, tapi anda bisa menyalin repositori ini untuk dimodifikasi sendiri. Tautan di bawah ini mengarah ke repositori asli.
 
 [![](https://img.shields.io/badge/Magisk-v27.0-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v27.0)
 [![](https://img.shields.io/badge/Magisk%20Beta-v27.0-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v27.0)
